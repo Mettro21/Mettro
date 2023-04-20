@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mettro/static/css/main.073c9b0a.css",
+    "main.js": "/mettro/static/js/main.a7c60a9b.js",
+    "static/js/787.e08127bd.chunk.js": "/mettro/static/js/787.e08127bd.chunk.js",
+    "static/media/logo.svg": "/mettro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mettro/index.html",
+    "main.073c9b0a.css.map": "/mettro/static/css/main.073c9b0a.css.map",
+    "main.a7c60a9b.js.map": "/mettro/static/js/main.a7c60a9b.js.map",
+    "787.e08127bd.chunk.js.map": "/mettro/static/js/787.e08127bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a7c60a9b.js"
+  ]
+}
